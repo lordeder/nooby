@@ -1,0 +1,1 @@
+<?php f(isset($_POST[$input])){ echo 'value="'.$_POST[$input].'"';} ?>
